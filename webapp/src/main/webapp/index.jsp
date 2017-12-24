@@ -1,1 +1,1 @@
-Hello, Jenkins Wold from satge to prod!
+Hello, Jenkins Wold from stage to prod using pipeline!
